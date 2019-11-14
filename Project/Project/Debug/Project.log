@@ -1,0 +1,8 @@
+﻿  Project.c
+c:\users\lee\desktop\20145150 이상욱 c programming project\project\project\project.c(9): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
+  c:\users\lee\desktop\20145150 이상욱 c programming project\project\project\project.c(9): note: 명령줄 인수: '_CRT_SECURE_NO_WARNINGS'의 이전 정의를 참조하십시오.
+c:\users\lee\desktop\20145150 이상욱 c programming project\project\project\project.c(331): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\lee\desktop\20145150 이상욱 c programming project\project\project\project.c(334): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\lee\desktop\20145150 이상욱 c programming project\project\project\project.c(337): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Project.vcxproj -> C:\Users\LEE\Desktop\20145150 이상욱 C programming project\Project\Debug\Project.exe
+  Project.vcxproj -> C:\Users\LEE\Desktop\20145150 이상욱 C programming project\Project\Debug\Project.pdb (Partial PDB)
